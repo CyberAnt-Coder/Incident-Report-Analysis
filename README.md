@@ -5,7 +5,6 @@ In this lab, we were given a blank template for an Incident Report Analysis. Thi
 <br />
 
 # Incident Report Analysis
-# Incident Report Analysis
 
 | **Section** | **Details** |
 |-------------|-------------|
