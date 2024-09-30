@@ -1,7 +1,7 @@
-<h1>Incident-Report-Analysis</h1>
+# Incident-Report-Analysis 
 
-<h2>Description</h2>
-In this lab, we were given a blank template for an Incident Report Analysis. This involved a detailed examination of a security incident as well as how it applied to the NIST framework. In this scenario, we used the template to examine a DDos attack.
+## Description
+In this lab, I used a blank template for an Incident Report Analysis. This involved a detailed examination of a security incident as well as how it applied to the NIST framework. I then used this blank template to examine a DDos attack.
 <br />
 
 # Incident Report Analysis
